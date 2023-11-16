@@ -40,19 +40,15 @@
   ],
   "navigation": [
     {
-      "group": "Welcome",
-      "pages": ["introduction"]
-    },
-    {
-      "group": "Inference Endpoints",
-      "pages": ["inference-endpoints/quickstart"]
+      "group": "Quickstart",
+      "pages": ["introduction", "finetuning-quickstart"]
     },
     {
       "group": "Finetuning",
-      "pages": ["essentials/navigation"]
+      "pages": ["finetuning/dataset-format", "finetuning/supported-models"]
     },
     {
-      "group": "Other",
+      "group": "General",
       "pages": ["general/pricing"]
     }
   ],
